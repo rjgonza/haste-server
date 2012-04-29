@@ -1,9 +1,9 @@
 {
 
-  "host": "localhost",
-  "port": 7777,
+  "host": "10.80.6.100",
+  "port": 15359,
 
-  "keyLength": 10,
+  "keyLength": 4,
 
   "maxLength": 400000,
 
